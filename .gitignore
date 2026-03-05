@@ -1,0 +1,21 @@
+# Environnement virtuel
+env/
+venv/
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers système Mac
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Variables d'environnement
+.env
+
+# VSCode
+.vscode/
